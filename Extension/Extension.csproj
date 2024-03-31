@@ -8,6 +8,9 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="Bogus" Version="35.5.0"/>
+        <PackageReference Include="FreeSql" Version="3.2.820"/>
+        <PackageReference Include="FreeSql.Provider.Sqlite" Version="3.2.820"/>
         <PackageReference Include="Godot.SourceGenerators" Version="4.2.1"/>
         <PackageReference Include="GodotSharp" Version="4.2.1"/>
         <PackageReference Include="GodotSharpEditor" Version="4.2.1"/>
