@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension", "Extension\Exte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{D3D3326F-7CAB-4DAE-B1DC-5CB4C50EBDCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{00FABB2E-CBA9-45FA-BF65-45B670BD7128}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{D3D3326F-7CAB-4DAE-B1DC-5CB4C50EBDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3D3326F-7CAB-4DAE-B1DC-5CB4C50EBDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3D3326F-7CAB-4DAE-B1DC-5CB4C50EBDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00FABB2E-CBA9-45FA-BF65-45B670BD7128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FABB2E-CBA9-45FA-BF65-45B670BD7128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FABB2E-CBA9-45FA-BF65-45B670BD7128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FABB2E-CBA9-45FA-BF65-45B670BD7128}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
