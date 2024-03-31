@@ -1,0 +1,14 @@
+### Godot ###
+# Godot 4+ specific ignores
+.godot/
+
+# .NET Core build folders
+bin/
+obj/
+
+### IDE ###
+### JetBrains ###
+.idea/*
+
+### VisualStudioCode ###
+.vscode/*
