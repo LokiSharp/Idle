@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Extension.Utils;
+using Microsoft.Extensions.DependencyInjection;
 using Program.SceneModels;
 using Program.Services;
 
@@ -30,6 +31,7 @@ public static class Program
     private static void AddServices(IServiceCollection services)
     {
         services.AddSingleton<TestService>();
+        services.AddSingleton<NlogHelper>();
     }
 
     /// <summary>
